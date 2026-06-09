@@ -1,4 +1,4 @@
-\# Curso TMW Git \& GitHub 2025
+# Curso TMW Git \& GitHub 2025
 
 
 
@@ -14,7 +14,7 @@ Confira tudo o que temos no nosso YouTube. É gratis! Segue o link:
 
 
 
-\[Curso Git 2025](https://youtube.com/@teomewhy)
+[Curso Git 2025](https://youtube.com/@teomewhy)
 
 
 
@@ -22,95 +22,95 @@ Além do nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de
 
 
 
-Conheça nosso site: \[teomewhy.org](https://teomewhy.org/schedule)
+Conheça nosso site: [teomewhy.org](https://teomewhy.org/schedule)
 
 
 
-Apoie nosso projeto no \[Apoia-se](apoia.se/teomewhy)
+Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy)
 
 
 
-\## Fluxo de trabalho Git local
+## Fluxo de trabalho Git local
 
 
 
-01\. git checkout -b <nova-branch>
+01. git checkout -b <nova-branch>
 
-02\. cria ou atualiza arquivos
+02. cria ou atualiza arquivos
 
-03\. git status
+03. git status
 
-05\. git add \*arquivos\*
+05. git add \*arquivos\*
 
-06\. git status
+06. git status
 
-07\. git commit -m "minha mensagem"
+07. git commit -m "minha mensagem"
 
-08\. git checkout main
+08. git checkout main
 
-09\. git merge nova\_branch
-
-
-
-\## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
-
-01\. git clone <endereco do projeto>
-
-02\. git checkout -b <nova\_branch>
-
-03\. alterações de arquivos
-
-04\. git status
-
-05\. git add \*arquivos\*
-
-06\. git status
-
-07\. git commit -m "nova mensagem"
-
-08\. git push origin <nova\_branch>
-
-09\. abrir Pull request no GitHub para main
-
-10\. excluir <nova\_branch> origin
-
-11\. git checkout main
-
-12\. git branch -D <nova\_branch>
+09. git merge nova\_branch
 
 
 
-\## Fluxo de trabalho GitHub <> Local (projetos open-source)
+## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
-01\. Fork do projeto para seu próprio github
+01. git clone <endereco do projeto>
 
-02\. git clone <endereco do projeto fork>
+02. git checkout -b <nova\_branch>
 
-03\. git checkout -b <nova\_branch>
+03. alterações de arquivos
 
-04\. alterações de arquivos
+04. git status
 
-05\. git status
+05. git add \*arquivos\*
 
-06\. git add \*arquivos\*
+06. git status
 
-07\. git status
+07. git commit -m "nova mensagem"
 
-08\. git commit -m "nova mensagem"
+08. git push origin <nova\_branch>
 
-09\. git push origin <nova\_branch>
+09. abrir Pull request no GitHub para main
 
-10\. abrir Pull request no GitHub da branch fork para a main do projeto original
+10. excluir <nova\_branch> origin
 
-11\. excluir <nova\_branch> origin
+11. git checkout main
 
-12\. git checkout main
-
-13\. git branch -D <nova\_branch>
+12. git branch -D <nova\_branch>
 
 
 
-\----
+## Fluxo de trabalho GitHub <> Local (projetos open-source)
+
+01. Fork do projeto para seu próprio github
+
+02. git clone <endereco do projeto fork>
+
+03. git checkout -b <nova\_branch>
+
+04. alterações de arquivos
+
+05. git status
+
+06. git add \*arquivos\*
+
+07. git status
+
+08. git commit -m "nova mensagem"
+
+09. git push origin <nova\_branch>
+
+10. abrir Pull request no GitHub da branch fork para a main do projeto original
+
+11. excluir <nova\_branch> origin
+
+12. git checkout main
+
+13. git branch -D <nova\_branch>
+
+
+
+----
 
 
 
@@ -118,19 +118,19 @@ Pessoas participantes:
 
 
 
-\- Igor Dammous
+- Igor Dammous
 
-\- Infoslack
+- Infoslack
 
-\- Leo Medeiros
+- Leo Medeiros
 
-\- Mateus Dantas
+- Mateus Dantas
 
-\- Rafael Felipe
+- Rafael Felipe
 
-\- Tales
+- Tales
 
-\- Téo Calvo
+- Téo Calvo
 
 
 
